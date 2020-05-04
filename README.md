@@ -5,3 +5,4 @@
 * Task 3: Dockerize web app and backend database.
 * Task 4: Put it in the cloud.
 * Task 5: Add automation through CI/CD pipeline
+* Task 6: Remember how to use git
