@@ -1,6 +1,6 @@
 # Prog project
 
-* Task 1: Algorithms and data structures in Python.
+* Task 1: Algorithms and data structures in Python and C.
 * Task 2: Web app and backend database.
 * Task 3: Dockerize web app and backend database.
 * Task 4: Put it in the cloud.
