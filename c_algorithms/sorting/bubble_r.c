@@ -3,9 +3,7 @@
 
 int main()
 {
-  printf("hello,world\n");
-
-  int nums[10] = {1,18,21,5,21,17,6,15,9,17};
+   int nums[] = {25, 15, 19, 48, 27, 42, 40, 13, 4, 30, 39, 33, 44, 16, 49, 14, 28, 17, 47, 31};
 
   int s1 = sizeof(nums)/sizeof(nums[0]);
   printf("Numer of elements in the array: %d\n",s1);
